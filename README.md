@@ -2,7 +2,7 @@
 Credit Card Fraud Classification is a machine learning project focused on detecting fraudulent credit card transactions using classification algorithms. The project includes data preprocessing, exploratory data analysis, feature engineering, model training, evaluation, and performance comparison to build an accurate fraud detection system.
 # 💳 Credit Card Fraud Detection using Machine Learning
 
-# 📌 Problem Statement
+#  Problem Statement
 
 Credit card fraud is one of the major challenges in the modern digital banking ecosystem. With millions of transactions happening daily, identifying fraudulent activities manually becomes nearly impossible. Fraudulent transactions not only cause huge financial losses to banks and customers but also reduce trust in online payment systems.
 
@@ -10,7 +10,7 @@ The goal of this project is to build a machine learning-based fraud detection sy
 
 ---
 
-# 🌍 Real-World Problem We Are Solving
+# Real-World Problem We Are Solving
 
 Traditional fraud detection systems often struggle because fraudulent transactions represent only a tiny fraction of all transactions, making fraud detection a highly imbalanced classification problem.
 
@@ -66,25 +66,23 @@ After completing EDA, the dataset was prepared for machine learning modeling.
 * Handling class imbalance
 * Preparing machine-learning-ready data
 
-## 🎥 Preprocessing Workflow Demo
+## Preprocessing Workflow Demo
 
-![Preprocessing Workflow](images/preprocessing.gif)
-
+![Demo](Visualization/preprocessing.gif.gif)
 ---
 
-# 🤖 Step 3 — Machine Learning Classification
+# Step 3 — Machine Learning Classification
 
 Multiple machine learning models were trained and evaluated to identify fraudulent transactions effectively.
 
-### 🔹 Models Used
+###  Models Used
 
 * Logistic Regression
-* Decision Tree Classifier
-* Random Forest Classifier
+* LDA
 * K-Nearest Neighbors
-* Support Vector Machine
+* QDA
 
-### 🔹 Model Evaluation Metrics
+### Model Evaluation Metrics
 
 * Accuracy
 * Precision
@@ -93,15 +91,12 @@ Multiple machine learning models were trained and evaluated to identify fraudule
 * ROC-AUC Score
 * Confusion Matrix
 
-## 🎥 Classification Model Demo
+## Classification Model Demo
 
-## 🎥 Classification Model Demo
-
-![Classification Model Demo](visualization/classification_model.gif.gif)
-
+![Demo](Visualization/classification_model.gif.gif)
 ---
 
-# 📉 Final Outcome
+# Final Outcome
 
 The final machine learning pipeline successfully detected fraudulent transactions while minimizing false negatives and improving fraud detection reliability.
 
@@ -109,7 +104,7 @@ This project demonstrates how machine learning can be applied to solve real-worl
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```bash
 CreditCardFraudClassification/
@@ -132,7 +127,7 @@ CreditCardFraudClassification/
 
 ---
 
-# 📚 Libraries Used
+# Libraries Used
 
 Add the following libraries to the `requirements.txt` file:
 
@@ -150,7 +145,7 @@ jupyter
 
 ---
 
-# ⚙️ Installation
+# Installation
 
 Clone the repository and install the dependencies.
 
@@ -164,7 +159,7 @@ pip install -r requirements.txt
 
 ---
 
-# ▶️ Run the Project
+# Run the Project
 
 Launch Jupyter Notebook and run the notebooks step-by-step.
 
@@ -174,7 +169,7 @@ jupyter notebook
 
 ---
 
-# 🧠 Skills Demonstrated
+# Skills Demonstrated
 
 * Exploratory Data Analysis
 * Fraud Pattern Detection
@@ -187,7 +182,7 @@ jupyter notebook
 
 ---
 
-# ⭐ Conclusion
+# Conclusion
 
 This project showcases a complete end-to-end machine learning workflow for fraud detection, starting from exploratory analysis to predictive classification modeling.
 
@@ -195,4 +190,7 @@ The system demonstrates how machine learning can help financial institutions imp
 
 ---
 
-⭐ If you found this project useful, feel free to star the repository.
+Author: Shorya Bisht
+https://www.linkedin.com/in/shorya-bisht-a20144349/
+
+
