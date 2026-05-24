@@ -83,7 +83,8 @@ The EDA phase focused on uncovering hidden fraud patterns and understanding how 
 
 **Add EDA GIF Here**
 
-![EDA Visualization](images/preprocessing.gif.gif)
+![Creadt_Card_Fraud_Classification EDA Visualization](images/preprocessing.gif.gif)
+
 
 ---
 
