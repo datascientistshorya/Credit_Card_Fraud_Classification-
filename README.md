@@ -95,7 +95,7 @@ Multiple machine learning models were trained and evaluated to identify fraudule
 
 ## 🎥 Classification Model Demo
 
-![Classification Model](images/classification model.gif.gif)
+![Classification Model](images/classification_model.gif.gif)
 
 ---
 
