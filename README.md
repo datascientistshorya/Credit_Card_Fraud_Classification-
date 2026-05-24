@@ -83,9 +83,7 @@ The EDA phase focused on uncovering hidden fraud patterns and understanding how 
 
 **Add EDA GIF Here**
 
-```md
-![EDA Visualization](images\preprocessing.gif)
-```
+![EDA Visualization](images/preprocessing.gif.gif)
 
 ---
 
